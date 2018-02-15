@@ -1,5 +1,4 @@
-
-- git: {local-name: fetchpy, uri: 'https://github.com/personalrobotics/herbpy'} change to link to fetchpy
+- git: {local-name: fetchpy, uri: 'https://github.com/jontromanab/fetchpy.git'}
 - git: {local-name: prpy, uri: 'https://github.com/personalrobotics/prpy'}
 - git: {local-name: openrave_catkin, uri: 'https://github.com/personalrobotics/openrave_catkin'}
 - git: {local-name: or_parabolicsmoother, uri: 'https://github.com/personalrobotics/or_parabolicsmoother'}

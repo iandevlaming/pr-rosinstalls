@@ -9,3 +9,6 @@
 - git: {local-name: or_fcl, uri: 'https://github.com/personalrobotics/or_fcl'}
 - git: {local-name: or_ompl, uri: 'https://github.com/personalrobotics/or_ompl'}
 - git: {local-name: comps, uri: 'https://github.com/personalrobotics/comps'}
+- git: {local-name: pr_control_msgs, uri: 'https://github.com/personalrobotics/pr_control_msgs'}
+- git: {local-name: tsr, uri: 'https://github.com/personalrobotics/tsr'}
+- git: {local-name: ros_control_client, uri: 'https://github.com/personalrobotics/ros_control_client'}

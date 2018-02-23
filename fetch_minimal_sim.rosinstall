@@ -12,3 +12,4 @@
 - git: {local-name: pr_control_msgs, uri: 'https://github.com/personalrobotics/pr_control_msgs'}
 - git: {local-name: tsr, uri: 'https://github.com/personalrobotics/tsr'}
 - git: {local-name: ros_control_client, uri: 'https://github.com/personalrobotics/ros_control_client'}
+- git: {local-name: fetch_ros, uri: 'https://github.com/fetchrobotics/fetch_ros'}
